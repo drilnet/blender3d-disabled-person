@@ -1,0 +1,86 @@
+
+Что содержит архив (Blender 3D - Disabled Person.7z).
+
+---
+| Анимация продолжительностью в 100 кадров.
+---
+
+Каталог: Disabled Person (100 frames) 15% - 100 кадров формата png, размер кадра 96x72 px.
+Каталог: Disabled Person (100 frames) 20% - 100 кадров формата png, размер кадра 128x96 px.
+Каталог: Disabled Person (100 frames) 25% - 100 кадров формата png, размер кадра 160x120 px.
+Каталог: Disabled Person (100 frames) 30% - 100 кадров формата png, размер кадра 192x144 px.
+
+Файл: Disabled Person (100 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
+Файл: Disabled Person (100 frames) 15%.gif               - Анимация 96x72 px.
+Файл: Disabled Person (100 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
+Файл: Disabled Person (100 frames) 20%.gif               - Анимация 128x96 px.
+Файл: Disabled Person (100 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).
+Файл: Disabled Person (100 frames) 25%.gif               - Анимация 160x120 px.
+Файл: Disabled Person (100 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
+Файл: Disabled Person (100 frames) 30%.gif               - Анимация 192x144 px.
+
+Файл: Disabled Person (100 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
+Файл: Disabled Person (100 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+
+---
+| Анимация продолжительностью в 200 кадров.
+---
+
+Каталог: Disabled Person (200 frames) 15% - 200 кадров формата png, размер кадра 96x72 px.
+Каталог: Disabled Person (200 frames) 20% - 200 кадров формата png, размер кадра 128x96 px.
+Каталог: Disabled Person (200 frames) 25% - 200 кадров формата png, размер кадра 160x120 px.
+Каталог: Disabled Person (200 frames) 30% - 200 кадров формата png, размер кадра 192x144 px.
+
+Файл: Disabled Person (200 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
+Файл: Disabled Person (200 frames) 15%.gif               - Анимация 96x72 px.
+Файл: Disabled Person (200 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
+Файл: Disabled Person (200 frames) 20%.gif               - Анимация 128x96 px.
+Файл: Disabled Person (200 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).
+Файл: Disabled Person (200 frames) 25%.gif               - Анимация 160x120 px.
+Файл: Disabled Person (200 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
+Файл: Disabled Person (200 frames) 30%.gif               - Анимация 192x144 px.
+
+Файл: Disabled Person (200 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
+Файл: Disabled Person (200 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+
+---
+| Анимация продолжительностью в 400 кадров.
+---
+
+Каталог: Disabled Person (400 frames) 15% - 400 кадров формата png, размер кадра 96x72 px.
+Каталог: Disabled Person (400 frames) 20% - 400 кадров формата png, размер кадра 128x96 px.
+Каталог: Disabled Person (400 frames) 25% - 400 кадров формата png, размер кадра 160x120 px.
+Каталог: Disabled Person (400 frames) 30% - 400 кадров формата png, размер кадра 192x144 px.
+
+Файл: Disabled Person (400 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
+Файл: Disabled Person (400 frames) 15%.gif               - Анимация 96x72 px.
+Файл: Disabled Person (400 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
+Файл: Disabled Person (400 frames) 20%.gif               - Анимация 128x96 px.
+Файл: Disabled Person (400 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).
+Файл: Disabled Person (400 frames) 25%.gif               - Анимация 160x120 px.
+Файл: Disabled Person (400 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
+Файл: Disabled Person (400 frames) 30%.gif               - Анимация 192x144 px.
+
+Файл: Disabled Person (400 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
+Файл: Disabled Person (400 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+
+---
+| Исходная иконка.
+---
+
+Каталог: Disabled Person (Tango) - Здесь иконка из набора Tango.
+
+---
+| Выходной результат (preview).
+---
+
+Файл: Disabled Person.png - Сделано в Blender 3D.
+
+---
+| Это описание.
+---
+
+Файл: Readme - UTF8.txt - Это описание (FreeBSD, Linux0.
+Файл: Readme - 1251.txt - Это описание (Windows).
+
+Украина. (C) Демидов С.В.
