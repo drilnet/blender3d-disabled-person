@@ -4,3 +4,6 @@
 <hr>
 
 Лицензия: **Free**.
+
+![](https://github.com/drilnet/blender3d-disabled-person/blob/master/UA.png)
+
