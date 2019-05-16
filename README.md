@@ -1,1 +1,6 @@
-# blender3d-disabled-person
+# Hobby
+[GITHUB](https://github.com) - Моя записная книжка!
+
+<hr>
+
+Лицензия: **Free**.
