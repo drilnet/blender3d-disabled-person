@@ -22,7 +22,7 @@
 | Анимация продолжительностью в 100 кадров.
 ---
 ```
-[Preview 1](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif)
+[Preview 1   ](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif)
 [Preview 2](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif)
 [Preview 3](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif)
 [Preview 4](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif)
