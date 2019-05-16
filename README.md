@@ -10,8 +10,6 @@
 Анимированная иконка Disabled Person, сделано в **Blender 2.79b** ([https://www.blender.org](https://www.blender.org)).
 
 ![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif)
-![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_2.gif)
-![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_3.gif)
 
 **Внимание!**
 <br>
