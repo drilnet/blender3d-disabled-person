@@ -43,6 +43,7 @@
 ```
 
 **Предпросмотр:**
+<br>
 | [Preview 15% (1)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2015%25%2C%20optimization.gif)
 | [Preview 20% (2)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2020%25%2C%20optimization.gif)
 | [Preview 25% (3)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2025%25%2C%20optimization.gif)
