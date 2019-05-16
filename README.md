@@ -21,7 +21,9 @@
 ---
 | Анимация продолжительностью в 100 кадров.
 ---
-
+```
+[Preview 1](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif)
+```
 Каталог: Disabled Person (100 frames) 15% - 100 кадров формата png, размер кадра 96x72 px.
 Каталог: Disabled Person (100 frames) 20% - 100 кадров формата png, размер кадра 128x96 px.
 Каталог: Disabled Person (100 frames) 25% - 100 кадров формата png, размер кадра 160x120 px.
