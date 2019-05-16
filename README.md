@@ -11,5 +11,6 @@
 
 ![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview.gif)
 
-**Внимание!** 
+**Внимание!**
+<br>
 **blend**-файл находится в архиве **Blender 3D - Disabled Person.7z**.
