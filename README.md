@@ -22,9 +22,9 @@
 | Анимация продолжительностью в 100 кадров.
 ---
 ```
-| [Preview 15% (1)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2015%25%2C%20optimization.gif) |
-| [Preview 20% (2)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2020%25%2C%20optimization.gif) |
-| [Preview 25% (3)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2025%25%2C%20optimization.gif) |
+| [Preview 15% (1)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2015%25%2C%20optimization.gif)
+| [Preview 20% (2)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2020%25%2C%20optimization.gif)
+| [Preview 25% (3)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2025%25%2C%20optimization.gif)
 | [Preview 30% (4)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2030%25%2C%20optimization.gif) |
 ```
 Каталог: Disabled Person (100 frames) 15% - 100 кадров формата png, размер кадра 96x72 px.
