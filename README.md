@@ -9,7 +9,7 @@
 
 Анимированная иконка **Disabled Person**, сделано в **Blender 2.79b** ([https://www.blender.org](https://www.blender.org)).
 
-![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif)
+![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2015%25%2C%20optimization.gif)
 
 **Внимание!**
 <br>
@@ -22,10 +22,10 @@
 | Анимация продолжительностью в 100 кадров.
 ---
 ```
-| [Preview 1](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif) |
-| [Preview 2](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif) |
-| [Preview 3](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif) |
-| [Preview 4](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview_1.gif) |
+| [Preview 15% (1)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2015%25%2C%20optimization.gif) |
+| [Preview 20% (2)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2020%25%2C%20optimization.gif) |
+| [Preview 25% (3)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2025%25%2C%20optimization.gif) |
+| [Preview 30% (4)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2030%25%2C%20optimization.gif) |
 ```
 Каталог: Disabled Person (100 frames) 15% - 100 кадров формата png, размер кадра 96x72 px.
 Каталог: Disabled Person (100 frames) 20% - 100 кадров формата png, размер кадра 128x96 px.
