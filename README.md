@@ -3,6 +3,8 @@
 
 <hr>
 
+### Blender 3D. Disabled Person (анимированная иконка).
+
 Лицензия: **Free**.
 
 ![](https://github.com/drilnet/blender3d-disabled-person/blob/master/UA.png)
