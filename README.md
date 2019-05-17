@@ -108,3 +108,5 @@
 | [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2020%25%2C%20optimization.gif)
 | [Preview 3 (160x120 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2025%25%2C%20optimization.gif)
 | [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2030%25%2C%20optimization.gif) |
+
+Архив **Blender 3D - Disabled Person.7z** можно распаковать с помощью архиватора [7-Zip](https://www.7-zip.org/download.html)!
