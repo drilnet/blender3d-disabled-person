@@ -15,7 +15,7 @@
 
 **Внимание!**
 <br>
-**blend**-файл находится в архиве **Blender 3D - Disabled Person.7z**.
+**blend**-файл находится в архиве: **Blender 3D - Disabled Person.7z**.
 
 **Содержимое архива.**
 
