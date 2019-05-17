@@ -11,7 +11,7 @@
 <br>
 В качестве образца использовалась иконка [Accessibility](https://github.com/drilnet/blender3d-disabled-person/blob/master/Tango%20icon%20(example)/Accessibility.png) (набор иконок [Tango](https://ru.wikipedia.org/wiki/Tango_Desktop_Project)).
 
-Результат:
+**Результат**:
 <br>
 ![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2015%25%2C%20optimization.gif)
 
@@ -46,7 +46,7 @@
 Файл: Disabled Person (100 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
 ```
 
-**Предпросмотр:**
+**Предпросмотр**:
 <br>
 | [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2015%25%2C%20optimization.gif)
 | [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2020%25%2C%20optimization.gif)
@@ -76,7 +76,7 @@
 Файл: Disabled Person (200 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
 ```
 
-**Предпросмотр:**
+**Предпросмотр**:
 <br>
 | [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2015%25%2C%20optimization.gif)
 | [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2020%25%2C%20optimization.gif)
@@ -106,7 +106,7 @@
 Файл: Disabled Person (400 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
 ```
 
-**Предпросмотр:**
+**Предпросмотр**:
 <br>
 | [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2015%25%2C%20optimization.gif)
 | [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2020%25%2C%20optimization.gif)
