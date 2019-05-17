@@ -9,7 +9,7 @@
 
 Анимированная иконка **Disabled Person**, сделано в **Blender 2.79b** ([https://www.blender.org](https://www.blender.org)).
 <br>
-В качестве образца использовалась иконка **[Accessibility](https://github.com/drilnet/blender3d-disabled-person/blob/master/Tango%20icon%20(example)/Disabled%20Person%20(Tango)%2C%20320x320.png)** (набор иконок [Tango](https://ru.wikipedia.org/wiki/Tango_Desktop_Project)). ???
+В качестве образца использовалась иконка [Accessibility](https://github.com/drilnet/blender3d-disabled-person/blob/master/Tango%20icon%20(example)/Accessibility.png) (набор иконок [Tango](https://ru.wikipedia.org/wiki/Tango_Desktop_Project)). ???
 
 ![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2015%25%2C%20optimization.gif)
 
