@@ -77,7 +77,7 @@
 | [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2015%25%2C%20optimization.gif)
 | [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2020%25%2C%20optimization.gif)
 | [Preview 3 (160x120 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2025%25%2C%20optimization.gif)
-| [Preview 4 (192x144)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2030%25%2C%20optimization.gif) |
+| [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2030%25%2C%20optimization.gif) |
 
 ```
 ---
@@ -101,3 +101,10 @@
 Файл: Disabled Person (400 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
 Файл: Disabled Person (400 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
 ```
+
+**Предпросмотр:**
+<br>
+| [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2015%25%2C%20optimization.gif)
+| [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2020%25%2C%20optimization.gif)
+| [Preview 3 (160x120 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2025%25%2C%20optimization.gif)
+| [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2030%25%2C%20optimization.gif) |
