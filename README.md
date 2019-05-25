@@ -115,7 +115,7 @@
 | [Preview 3 (160x120 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2025%25%2C%20optimization.gif)
 | [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2030%25%2C%20optimization.gif) |
 
-Украина. (**C**) Демидов С.В.
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
 
