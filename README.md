@@ -147,8 +147,11 @@
 | [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(399%20frames)%2030%25%2C%20optimization.gif) |
 
 **Примечание.**
+<br>
 В **Graph Editor** анимационная кривая должна начинаться не с 1-го кадра, а с 0-го!
+<br>
 Тогда рендерить можно с 1-го кадра по 100-й!
+<br>
 Смотри как сделано в [StDice2](https://github.com/drilnet/blender3d-dice2) и в [StDv(motor)](https://github.com/drilnet/blender3d-motor)!
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
