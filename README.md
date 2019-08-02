@@ -36,22 +36,22 @@
 
    Каталоги:
       ---
-      | Disabled Person (099 frames) 15% - 99 кадров формата png, размер кадра 96x72px.
-      | Disabled Person (099 frames) 20% - 99 кадров формата png, размер кадра 128x96px.
-      | Disabled Person (099 frames) 25% - 99 кадров формата png, размер кадра 160x120px.
-      | Disabled Person (099 frames) 30% - 99 кадров формата png, размер кадра 192x144px.
+      | Disabled Person (099 frames) 15% - 99 кадров формата png, размер кадра 96x72 px.
+      | Disabled Person (099 frames) 20% - 99 кадров формата png, размер кадра 128x96 px.
+      | Disabled Person (099 frames) 25% - 99 кадров формата png, размер кадра 160x120 px.
+      | Disabled Person (099 frames) 30% - 99 кадров формата png, размер кадра 192x144 px.
       ---
       
    Файлы GIF-анимации:
       ---
-      | Disabled Person (099 frames) 15%, optimization.gif - Анимация 96x72px (с оптимизацией).
-      | Disabled Person (099 frames) 15%.gif               - Анимация 96x72px.
-      | Disabled Person (099 frames) 20%, optimization.gif - Анимация 128x96px (с оптимизацией).
-      | Disabled Person (099 frames) 20%.gif               - Анимация 128x96px.
-      | Disabled Person (099 frames) 25%, optimization.gif - Анимация 160x120px (с оптимизацией).
-      | Disabled Person (099 frames) 25%.gif               - Анимация 160x120px.
-      | Disabled Person (099 frames) 30%, optimization.gif - Анимация 192x144px (с оптимизацией).
-      | Disabled Person (099 frames) 30%.gif               - Анимация 192x144px.
+      | Disabled Person (099 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
+      | Disabled Person (099 frames) 15%.gif               - Анимация 96x72 px.
+      | Disabled Person (099 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
+      | Disabled Person (099 frames) 20%.gif               - Анимация 128x96 px.
+      | Disabled Person (099 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).
+      | Disabled Person (099 frames) 25%.gif               - Анимация 160x120 px.
+      | Disabled Person (099 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
+      | Disabled Person (099 frames) 30%.gif               - Анимация 192x144 px.
       ---
 
    Файлы Blender'а:
@@ -75,22 +75,22 @@
 
    Каталоги:
       ---
-      | Disabled Person (199 frames) 15% - 199 кадров формата png, размер кадра 96x72px.
-      | Disabled Person (199 frames) 20% - 199 кадров формата png, размер кадра 128x96px.
-      | Disabled Person (199 frames) 25% - 199 кадров формата png, размер кадра 160x120px.
-      | Disabled Person (199 frames) 30% - 199 кадров формата png, размер кадра 192x144px.
+      | Disabled Person (199 frames) 15% - 199 кадров формата png, размер кадра 96x72 px.
+      | Disabled Person (199 frames) 20% - 199 кадров формата png, размер кадра 128x96 px.
+      | Disabled Person (199 frames) 25% - 199 кадров формата png, размер кадра 160x120 px.
+      | Disabled Person (199 frames) 30% - 199 кадров формата png, размер кадра 192x144 px.
       ---
 
    Файлы GIF-анимации:
       ---
-      | Disabled Person (199 frames) 15%, optimization.gif - Анимация 96x72px (с оптимизацией).
-      | Disabled Person (199 frames) 15%.gif               - Анимация 96x72px.
-      | Disabled Person (199 frames) 20%, optimization.gif - Анимация 128x96px (с оптимизацией).
-      | Disabled Person (199 frames) 20%.gif               - Анимация 128x96px.
-      | Disabled Person (199 frames) 25%, optimization.gif - Анимация 160x120px (с оптимизацией).  
-      | Disabled Person (199 frames) 25%.gif               - Анимация 160x120px.
-      | Disabled Person (199 frames) 30%, optimization.gif - Анимация 192x144px (с оптимизацией).
-      | Disabled Person (199 frames) 30%.gif               - Анимация 192x144px.
+      | Disabled Person (199 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
+      | Disabled Person (199 frames) 15%.gif               - Анимация 96x72 px.
+      | Disabled Person (199 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
+      | Disabled Person (199 frames) 20%.gif               - Анимация 128x96 px.
+      | Disabled Person (199 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).  
+      | Disabled Person (199 frames) 25%.gif               - Анимация 160x120 px.
+      | Disabled Person (199 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
+      | Disabled Person (199 frames) 30%.gif               - Анимация 192x144 px.
       ---
 
    Файлы Blender'а:
@@ -114,22 +114,22 @@
 
    Каталоги:
       ---
-      | Disabled Person (399 frames) 15% - 399 кадров формата png, размер кадра 96x72px.
-      | Disabled Person (399 frames) 20% - 399 кадров формата png, размер кадра 128x96px.
-      | Disabled Person (399 frames) 25% - 399 кадров формата png, размер кадра 160x120px.
-      | Disabled Person (399 frames) 30% - 399 кадров формата png, размер кадра 192x144px.
+      | Disabled Person (399 frames) 15% - 399 кадров формата png, размер кадра 96x72 px.
+      | Disabled Person (399 frames) 20% - 399 кадров формата png, размер кадра 128x96 px.
+      | Disabled Person (399 frames) 25% - 399 кадров формата png, размер кадра 160x120 px.
+      | Disabled Person (399 frames) 30% - 399 кадров формата png, размер кадра 192x144 px.
       ---
 
    Файлы GIF-анимации:
       ---
-      | Disabled Person (399 frames) 15%, optimization.gif - Анимация 96x72px (с оптимизацией).
-      | Disabled Person (399 frames) 15%.gif               - Анимация 96x72px.
-      | Disabled Person (399 frames) 20%, optimization.gif - Анимация 128x96px (с оптимизацией).
-      | Disabled Person (399 frames) 20%.gif               - Анимация 128x96px.
-      | Disabled Person (399 frames) 25%, optimization.gif - Анимация 160x120px (с оптимизацией).
-      | Disabled Person (399 frames) 25%.gif               - Анимация 160x120px.
-      | Disabled Person (399 frames) 30%, optimization.gif - Анимация 192x144px (с оптимизацией).
-      | Disabled Person (399 frames) 30%.gif               - Анимация 192x144px.
+      | Disabled Person (399 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
+      | Disabled Person (399 frames) 15%.gif               - Анимация 96x72 px.
+      | Disabled Person (399 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
+      | Disabled Person (399 frames) 20%.gif               - Анимация 128x96 px.
+      | Disabled Person (399 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).
+      | Disabled Person (399 frames) 25%.gif               - Анимация 160x120 px.
+      | Disabled Person (399 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
+      | Disabled Person (399 frames) 30%.gif               - Анимация 192x144 px.
       ---
 
    Файлы Blender'а:
