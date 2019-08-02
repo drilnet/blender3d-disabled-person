@@ -31,93 +31,120 @@
 
 ```
 ---
-| Анимация продолжительностью в 100 кадров.
+| Анимация продолжительностью в 99 кадров.
 ---
 
-Каталог: Disabled Person (100 frames) 15% - 100 кадров формата png, размер кадра 96x72 px.
-Каталог: Disabled Person (100 frames) 20% - 100 кадров формата png, размер кадра 128x96 px.
-Каталог: Disabled Person (100 frames) 25% - 100 кадров формата png, размер кадра 160x120 px.
-Каталог: Disabled Person (100 frames) 30% - 100 кадров формата png, размер кадра 192x144 px.
+   Каталоги:
+      ---
+      | Disabled Person (99 frames) 15% - 99 кадров формата png, размер кадра 96x72 px.
+      | Disabled Person (99 frames) 20% - 99 кадров формата png, размер кадра 128x96 px.
+      | Disabled Person (99 frames) 25% - 99 кадров формата png, размер кадра 160x120 px.
+      | Disabled Person (99 frames) 30% - 99 кадров формата png, размер кадра 192x144 px.
+      ---
+      
+   Файлы GIF-анимации:
+      ---
+      | Disabled Person (99 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
+      | Disabled Person (99 frames) 15%.gif               - Анимация 96x72 px.
+      | Disabled Person (99 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
+      | Disabled Person (99 frames) 20%.gif               - Анимация 128x96 px.
+      | Disabled Person (99 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).
+      | Disabled Person (99 frames) 25%.gif               - Анимация 160x120 px.
+      | Disabled Person (99 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
+      | Disabled Person (99 frames) 30%.gif               - Анимация 192x144 px.
+      ---
 
-Файл: Disabled Person (100 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
-Файл: Disabled Person (100 frames) 15%.gif               - Анимация 96x72 px.
-Файл: Disabled Person (100 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
-Файл: Disabled Person (100 frames) 20%.gif               - Анимация 128x96 px.
-Файл: Disabled Person (100 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).
-Файл: Disabled Person (100 frames) 25%.gif               - Анимация 160x120 px.
-Файл: Disabled Person (100 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
-Файл: Disabled Person (100 frames) 30%.gif               - Анимация 192x144 px.
-
-Файл: Disabled Person (100 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
-Файл: Disabled Person (100 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+   Файлы Blender'а:
+      ---
+      | Файл: Disabled Person (99 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
+      | Файл: Disabled Person (99 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+      ---
 ```
 
 **Предпросмотр:**
 <br>
-| [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2015%25%2C%20optimization.gif)
-| [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2020%25%2C%20optimization.gif)
-| [Preview 3 (160x120 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2025%25%2C%20optimization.gif)
-| [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(100%20frames)%2030%25%2C%20optimization.gif) |
+| [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(99%20frames)%2015%25%2C%20optimization.gif)
+| [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(99%20frames)%2020%25%2C%20optimization.gif)
+| [Preview 3 (160x120 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(99%20frames)%2025%25%2C%20optimization.gif)
+| [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(99%20frames)%2030%25%2C%20optimization.gif) |
 
 ```
 ---
-| Анимация продолжительностью в 200 кадров.
+| Анимация продолжительностью в 199 кадров.
 ---
 
-Каталог: Disabled Person (200 frames) 15% - 200 кадров формата png, размер кадра 96x72 px.
-Каталог: Disabled Person (200 frames) 20% - 200 кадров формата png, размер кадра 128x96 px.
-Каталог: Disabled Person (200 frames) 25% - 200 кадров формата png, размер кадра 160x120 px.
-Каталог: Disabled Person (200 frames) 30% - 200 кадров формата png, размер кадра 192x144 px.
+   Каталоги:
+      ---
+      | Disabled Person (199 frames) 15% - 199 кадров формата png, размер кадра 96x72 px.
+      | Disabled Person (199 frames) 20% - 199 кадров формата png, размер кадра 128x96 px.
+      | Disabled Person (199 frames) 25% - 199 кадров формата png, размер кадра 160x120 px.
+      | Disabled Person (199 frames) 30% - 199 кадров формата png, размер кадра 192x144 px.
+      ---
 
-Файл: Disabled Person (200 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
-Файл: Disabled Person (200 frames) 15%.gif               - Анимация 96x72 px.
-Файл: Disabled Person (200 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
-Файл: Disabled Person (200 frames) 20%.gif               - Анимация 128x96 px.
-Файл: Disabled Person (200 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).
-Файл: Disabled Person (200 frames) 25%.gif               - Анимация 160x120 px.
-Файл: Disabled Person (200 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
-Файл: Disabled Person (200 frames) 30%.gif               - Анимация 192x144 px.
+   Файлы GIF-анимации:
+      ---
+      | Disabled Person (199 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
+      | Disabled Person (199 frames) 15%.gif               - Анимация 96x72 px.
+      | Disabled Person (199 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
+      | Disabled Person (199 frames) 20%.gif               - Анимация 128x96 px.
+      | Disabled Person (199 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).  
+      | Disabled Person (199 frames) 25%.gif               - Анимация 160x120 px.
+      | Disabled Person (199 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
+      | Disabled Person (199 frames) 30%.gif               - Анимация 192x144 px.
+      ---
 
-Файл: Disabled Person (200 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
-Файл: Disabled Person (200 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
-```
-
-**Предпросмотр:**
-<br>
-| [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2015%25%2C%20optimization.gif)
-| [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2020%25%2C%20optimization.gif)
-| [Preview 3 (160x120 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2025%25%2C%20optimization.gif)
-| [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(200%20frames)%2030%25%2C%20optimization.gif) |
-
-```
----
-| Анимация продолжительностью в 400 кадров.
----
-
-Каталог: Disabled Person (400 frames) 15% - 400 кадров формата png, размер кадра 96x72 px.
-Каталог: Disabled Person (400 frames) 20% - 400 кадров формата png, размер кадра 128x96 px.
-Каталог: Disabled Person (400 frames) 25% - 400 кадров формата png, размер кадра 160x120 px.
-Каталог: Disabled Person (400 frames) 30% - 400 кадров формата png, размер кадра 192x144 px.
-
-Файл: Disabled Person (400 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
-Файл: Disabled Person (400 frames) 15%.gif               - Анимация 96x72 px.
-Файл: Disabled Person (400 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
-Файл: Disabled Person (400 frames) 20%.gif               - Анимация 128x96 px.
-Файл: Disabled Person (400 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).
-Файл: Disabled Person (400 frames) 25%.gif               - Анимация 160x120 px.
-Файл: Disabled Person (400 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
-Файл: Disabled Person (400 frames) 30%.gif               - Анимация 192x144 px.
-
-Файл: Disabled Person (400 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
-Файл: Disabled Person (400 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+   Файлы Blender'а:
+      ---
+      | Disabled Person (199 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
+      | Disabled Person (199 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+      ---
 ```
 
 **Предпросмотр:**
 <br>
-| [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2015%25%2C%20optimization.gif)
-| [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2020%25%2C%20optimization.gif)
-| [Preview 3 (160x120 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2025%25%2C%20optimization.gif)
-| [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(400%20frames)%2030%25%2C%20optimization.gif) |
+| [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(199%20frames)%2015%25%2C%20optimization.gif)
+| [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(199%20frames)%2020%25%2C%20optimization.gif)
+| [Preview 3 (160x120 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(199%20frames)%2025%25%2C%20optimization.gif)
+| [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(199%20frames)%2030%25%2C%20optimization.gif) |
+
+```
+---
+| Анимация продолжительностью в 399 кадров.
+---
+
+   Каталоги:
+      ---
+      | Disabled Person (399 frames) 15% - 399 кадров формата png, размер кадра 96x72 px.
+      | Disabled Person (399 frames) 20% - 399 кадров формата png, размер кадра 128x96 px.
+      | Disabled Person (399 frames) 25% - 399 кадров формата png, размер кадра 160x120 px.
+      | Disabled Person (399 frames) 30% - 399 кадров формата png, размер кадра 192x144 px.
+      ---
+
+   Файлы GIF-анимации:
+      ---
+      | Disabled Person (399 frames) 15%, optimization.gif - Анимация 96x72 px (с оптимизацией).
+      | Disabled Person (399 frames) 15%.gif               - Анимация 96x72 px.
+      | Disabled Person (399 frames) 20%, optimization.gif - Анимация 128x96 px (с оптимизацией).
+      | Disabled Person (399 frames) 20%.gif               - Анимация 128x96 px.
+      | Disabled Person (399 frames) 25%, optimization.gif - Анимация 160x120 px (с оптимизацией).
+      | Disabled Person (399 frames) 25%.gif               - Анимация 160x120 px.
+      | Disabled Person (399 frames) 30%, optimization.gif - Анимация 192x144 px (с оптимизацией).
+      | Disabled Person (399 frames) 30%.gif               - Анимация 192x144 px.
+      ---
+
+   Файлы Blender'а:
+      ---
+      | Disabled Person (399 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
+      | Disabled Person (399 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+      ---
+```
+
+**Предпросмотр:**
+<br>
+| [Preview 1 (96x72 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(399%20frames)%2015%25%2C%20optimization.gif)
+| [Preview 2 (128x96 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(399%20frames)%2020%25%2C%20optimization.gif)
+| [Preview 3 (160x120 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(399%20frames)%2025%25%2C%20optimization.gif)
+| [Preview 4 (192x144 px.)](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(399%20frames)%2030%25%2C%20optimization.gif) |
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
