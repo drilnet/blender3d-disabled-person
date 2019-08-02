@@ -19,6 +19,9 @@
 
 **Результат:**
 <br>
+![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(099%20frames)%2030%25%2C%20optimization.gif)
+![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(099%20frames)%2025%25%2C%20optimization.gif)
+![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(099%20frames)%2020%25%2C%20optimization.gif)
 ![](https://github.com/drilnet/blender3d-disabled-person/blob/master/Preview%20GIF/Disabled%20Person%20(099%20frames)%2015%25%2C%20optimization.gif)
 
 **Внимание!**
