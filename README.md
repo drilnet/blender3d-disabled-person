@@ -56,8 +56,8 @@
 
    Файлы Blender'а:
       ---
-      | Файл: Disabled Person (099 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
-      | Файл: Disabled Person (099 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+      | Файл: Disabled Person (099 frames).blend      - Blender ver. 2.79b.
+      | Файл: Disabled Person (099 frames).blend.copy - Blender ver. 2.79b.
       ---
 ```
 
@@ -95,8 +95,8 @@
 
    Файлы Blender'а:
       ---
-      | Disabled Person (199 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
-      | Disabled Person (199 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+      | Disabled Person (199 frames).blend      - Blender ver. 2.79b.
+      | Disabled Person (199 frames).blend.copy - Blender ver. 2.79b.
       ---
 ```
 
@@ -134,8 +134,8 @@
 
    Файлы Blender'а:
       ---
-      | Disabled Person (399 frames).blend      - файл Blender'а 3D, ver. Blender'а 2.79b.
-      | Disabled Person (399 frames).blend.copy - файл Blender'а 3D, ver. Blender'а 2.79b.
+      | Disabled Person (399 frames).blend      - Blender ver. 2.79b.
+      | Disabled Person (399 frames).blend.copy - Blender ver. 2.79b.
       ---
 ```
 
