@@ -23,7 +23,7 @@
 
 **Внимание!**
 <br>
-**blend**-файл находится в архиве: **Blender 3D - Disabled Person.7z**.
+**blend**-файл находится в архиве: [Blender 3D - Disabled Person.7z](https://github.com/drilnet/blender3d-disabled-person/blob/master/Blender%203D%20-%20Disabled%20Person.7z)
 <br>
 Данный архив можно распаковать с помощью архиватора [7-Zip](https://www.7-zip.org/download.html)!
 
